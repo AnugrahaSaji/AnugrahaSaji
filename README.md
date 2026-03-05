@@ -88,8 +88,8 @@ Research in **quantum computing and cryptography-based applications**.
 
 ## 🌐 Connect With Me
 
-LinkedIn: https://linkedin.com/in/anugrahasaji
-GitHub: https://github.com/AnugrahaSaji
+LinkedIn: [https://linkedin.com/in/anugrahasaji](https://www.linkedin.com/in/anugraha-saji-915287246?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+
 Email: [anugrahasaji2001@gmail.com](mailto:anugrahasaji2001@gmail.com)
 
 ---
